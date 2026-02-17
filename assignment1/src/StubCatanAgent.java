@@ -35,7 +35,7 @@ public class StubCatanAgent implements CatanAgent {
 
     @Override
     public ResourceType chooseResource(GameState state) {
-        return ResourceType.WOOL;
+        return ResourceType.ORE;
     }
 
     @Override
