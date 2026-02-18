@@ -1,3 +1,5 @@
+package com.example.calculator;
+
 public class Calculator {
 
     public double divide(double a, double b) {
