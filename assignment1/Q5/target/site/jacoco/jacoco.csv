@@ -1,0 +1,8 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+shop-assignment,com.example.shop,PaymentValidator,0,25,0,5,0,7,0,5,0,2
+shop-assignment,com.example.shop,OrderItem,0,38,0,4,0,11,0,5,0,3
+shop-assignment,com.example.shop,OrderStatus,0,21,0,0,0,4,0,1,0,1
+shop-assignment,com.example.shop,DiscountService,0,34,0,8,0,8,0,7,0,2
+shop-assignment,com.example.shop,Order,5,31,1,1,1,10,1,5,0,5
+shop-assignment,com.example.shop,OrderService,0,51,0,2,0,12,0,3,0,2
+shop-assignment,com.example.shop,PricingService,0,43,0,6,0,11,0,6,0,3
